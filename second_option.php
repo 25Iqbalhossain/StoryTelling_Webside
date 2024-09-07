@@ -44,7 +44,7 @@
 		<nav class="navigation">
 			<ul>
 				<li><h1 style="display:inline;"> <?php echo $_SESSION['login_user']; ?></h1></li>
-				<li><a style="padding-left:20px;" target="" href="index.php">Home</a></li>
+				<li><a style="padding-left:20px;" target="" href="index.html">Home</a></li>
 			</ul>
 		</nav>
     </header>
