@@ -26,7 +26,7 @@
 							<ul>
 								<li><a target=\"\" href=\"read_story.php\">Read Story</a></li>
 								<li><a target=\"\" href=\"create_story.php\">Create Story</a></li>
-								<li><a target=\"\" href=\"index.php\">HOME</a></li>
+								<li><a target=\"\" href=\"index.html\">HOME</a></li>
 							</ul>
 						</nav>
 					</header>
